@@ -284,8 +284,8 @@ color: rgb(241, 170, 170);
     
  #centre img{
   position: absolute;
-  height: 190px;
-  width: 300px;
+  height: 200px;
+  width: 280px;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
